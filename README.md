@@ -1,5 +1,7 @@
 # SA.-Phase-3-Code-Challenge-Python-Fundamentals---Compulsory
 
+This is a challenge to write various python functions to complete a set of given tasks.The functions are divided into different files as explained below:
+
 1. # Sum.py
 
     This is a function named add_numbers that takes two parameters num1 and num2, and returns the sum of the two numbers.
