@@ -1,2 +1,2 @@
-def reverse_string():
-    pass
+def reverse_string(text):
+    return "".join(reversed(text))
